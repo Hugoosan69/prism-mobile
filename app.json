@@ -27,6 +27,13 @@
       "expo-status-bar"
     ],
     "scheme": "prism",
-    "backgroundColor": "#16171b"
+    "backgroundColor": "#16171b",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "243e766f-13ae-43b2-baec-68a6a34637ca"
+      }
+    },
+    "owner": "hugoosan69"
   }
 }
